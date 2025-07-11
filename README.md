@@ -2,7 +2,7 @@
 
 
 Zerodha App
-This is a simple HTML and CSS file for a Zerodha app landing page. This project is covered at Week-0 of 0-100xDev Cohort.
+This is a simple HTML and CSS file for a Zerodha app landing page. 
 
 Usage
 To use this code, follow these steps:
